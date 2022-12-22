@@ -1,4 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+
+<h1 align="center">hello, im Vadim
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BBEAF7&width=435&lines=It+won't+always+be+summer+remember;The+comet+Man+lives+in+the+next+room;It+won't+always+be+summer;but+you'll+always+;be+young+and+innocent;-+comet+man+Movie+Man;I+don't+feel+yin+I+don't+feel+yin+I+don't+feel+yin+I+don't+feel+yin" alt="Typing SVG" /></a></h3>
 
 <!--
 **Docki2108/Docki2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
