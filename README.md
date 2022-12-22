@@ -4,8 +4,18 @@
 <h1 align="center">hello, im Vadim
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BBEAF7&width=435&lines=It+won't+always+be+summer+remember;The+comet+Man+lives+in+the+next+room;It+won't+always+be+summer;but+you'll+always+;be+young+and+innocent;-+comet+man+Movie+Man;I+don't+feel+yin+I+don't+feel+yin+I+don't+feel+yin+I+don't+feel+yin" alt="Typing SVG" /></a></h3>
-<hr></hr>
 
+
+<div align="center">
+  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Docki2108&langs_count=8)](https://github.com/Docki2108/github-readme-stats)
+   -->
+  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Docki2108&show_icons=true&theme=transparent)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Docki2108)](https://github.com/Docki2108/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Docki2108)
 
 <p align="center">
   <h3 align="center">main</h3>
@@ -18,8 +28,10 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 </a>
 <br>
+  
   
   
 <p align="center">
@@ -35,7 +47,6 @@
   ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
   
 </a>
-  
   
 <!-- ## 𝗦𝘁𝗮𝘁𝘀
 https://giphy.com/embed/UQJlZ2OcaCA2RLfGiZ
